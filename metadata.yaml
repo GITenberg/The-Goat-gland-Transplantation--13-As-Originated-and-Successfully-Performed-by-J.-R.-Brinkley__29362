@@ -1,0 +1,30 @@
+_repo: The-Goat-gland-Transplantation--13-As-Originated-and-Successfully-Performed-by-J.-R.-Brinkley__29362
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Flower, Sydney Blanshard
+    birthdate: 1867
+    gutenberg_agent_id: '33872'
+    url: http://www.gutenberg.org/2009/agents/33872
+description: ''
+gutenberg_bookshelf: Physiology
+gutenberg_issued: '2009-07-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29362'
+  lccn: '21009979'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Transplantation of organs, tissues, etc.'
+- !lcsh 'Brinkley, John Richard, 1885-1942'
+- !lcc 'QP'
+title: "The Goat-gland Transplantation\r\nAs Originated and Successfully Performed\
+  \ by J. R. Brinkley, M. D., of Milford, Kansas, U. S. A., in Over 600 Operations\
+  \ Upon Men and Women"
+url: http://www.gutenberg.org/ebooks/29362
